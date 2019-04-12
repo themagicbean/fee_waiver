@@ -1,5 +1,5 @@
 # fee_waiver
-Creates a Fee Waiver Motion from Form Inputs
+Creates a batterer's treatment program fee waiver motion (Cal. Pen. Code 1203.097) from form inputs.
 
 Simple script to find-and-replace text on a commonly filed motion.  Saves the new motion with client's first and last name.
 
