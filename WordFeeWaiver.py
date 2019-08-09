@@ -9,7 +9,6 @@ WordFeeWaiver -- makes a fee waiver motion
 '''
 
 import docx
-from django.db.models.functions import text
 doc = docx.Document("Form Fee Waiver.docx")
 
 from tkinter import *
