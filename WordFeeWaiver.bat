@@ -1,1 +1,1 @@
-@py.exe C:\Users\darrenbean\eclipse-workspace\AutomateTheBoringStuff\src\WordFeeWaiver.py %*
+@py.exe C:\Users\USERNAME\eclipse-workspace\AutomateTheBoringStuff\src\WordFeeWaiver.py %*
